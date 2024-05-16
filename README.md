@@ -1,3 +1,9 @@
+
+
+
+https://github.com/MeetPatel092/Student-App/assets/149999890/b3490bcf-26b4-458e-bf60-8e1f87e1d45a
+
+
 # Study Buddy App
 
 Study Buddy is a Flutter application designed to help students organize their study materials and schedules effectively.
@@ -10,13 +16,14 @@ Study Buddy is a Flutter application designed to help students organize their st
 
 ## Screenshots
 
-![Homepage](screenshots/homepage.png)
+![Group 1](https://github.com/MeetPatel092/Student-App/assets/149999890/623c5caa-ee04-4af5-ade1-53a7283e72d3)
+
 *Homepage - View and manage study materials*
 
-![Detail Page](screenshots/detailpage.png)
+
 *Detail Page - Add, edit, or delete study materials*
 
-![Splash Page](screenshots/splashpage.png)
+
 *Splash Page - Initial loading page*
 
 ## Getting Started
